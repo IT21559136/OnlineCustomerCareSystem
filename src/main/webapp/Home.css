@@ -1,0 +1,52 @@
+@charset "UTF-8";
+.category{
+	background-color:#800040;
+	background-color:#5c3c84;
+}
+ul.cat{
+	background-color:transparent;
+    padding:0px 270px 0px;
+
+}
+li.cat a{
+	float:center;
+	color:#000000;
+	padding:14px 40px;
+}
+
+li.cat a:hover:not(.active) {
+ background-color: transparent;
+  color: black;
+}
+li.cat a:hover{
+	text-decoration: underline;
+}
+img.cat-icon{
+	width:70px;
+	height:70px;
+}
+.icon-with-text {
+    text-align: center;
+    width: [width of img];
+}
+
+.icon-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+.que-cards{
+	margin-right: 0px;
+}
+.cat_search{
+	padding-top:0px;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
